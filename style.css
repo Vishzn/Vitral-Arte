@@ -278,7 +278,6 @@ textarea{
     width: 780px;
 }
 footer{
-    text-align: center;
     justify-content: space-around;
     display: flex;
     background-color: #1150A3 ;
@@ -300,5 +299,8 @@ footer h3{
     color: white;
     font-size: 30px;
     font-family: "Open";
+}
+.ab{
+    text-align: center;
 }
 
